@@ -210,6 +210,21 @@ div.flex2:nth-child(13){
 
 }
 
+div.flex1:nth-child(14){
+    background-image:url('images/7.jpg');
+    background-size:cover;
+    background-attachment:fixed; 
+   
+    
+
+}
+div.flex2:nth-child(15){
+    background-color: lightpink;
+    height:90vh;
+
+
+}
+
 .pposition{
     margin-left:200px;
     text-align: center;
